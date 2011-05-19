@@ -7,12 +7,12 @@ Hello Spiffy Node is a sample application using the [Spiffy UI Framework](http:/
 Building and Running Spiffy UI
 --------------------------------------
 
-HelloSpiffyNode is built with Apache Ant using Apache Ivy and deployed to Node.js.  Once you've installed Ant with Ivy and Node.js, go to your HelloSpiffyNode working copy and run this command:
+HelloSpiffyNode is built with Apache Ant using Apache Ivy and deployed to Node.js.  Once you've installed Ant with Ivy and Node.js, go to your HelloSpiffyNode working copy and run these commands:
 
         <ANT_HOME>/ant
         <NODE_HOME>/node HelloSpiffyNode.js
         
-This will download the required libraries and build the Hello Spiffy Node project.  It will then provide instructions for starting the server once the build is completed.  
+The ant command will download the required libraries and build the Hello Spiffy Node project.  The node command will start the server once the build is complete and provide instructions for accessing the running application.  
 
 License
 --------------------------------------
