@@ -1,4 +1,4 @@
-[Hello Spiffy Node](http://www.spiffyui.org) - beautiful, fast, maintainable applications with GWT and REST
+[Spiffy UI](http://www.spiffyui.org) - beautiful, fast, maintainable applications with GWT and REST
 ==================================================
 
 Hello Spiffy Node is a sample application using the [Spiffy UI Framework](http://www.spiffyui.org) which builds a simple REST application with Apache Ant and runs on Node.js.
